@@ -5,7 +5,7 @@ Desarrollador de software colombiano enfocado en **backend con Java y Spring Boo
 - 🔧 Construyo APIs REST con Spring Boot, JPA y MySQL/PostgreSQL
 - 🧾 He trabajado lógica de negocio real: facturación, inventario (kardex) y cartera
 - 🤝 Trabajo cómodo en equipo: varios de mis proyectos son colaborativos (front + back)
-- 📫 [LinkedIn](https://co.linkedin.com/in/juandariver9)
+- 🌐 [Portafolio](https://juandariver9.github.io/Portafolio_JuanDavid/) · 📫 [LinkedIn](https://co.linkedin.com/in/juandariver9)
 
 ## 🛠️ Tecnologías
 
@@ -27,7 +27,7 @@ Desarrollador de software colombiano enfocado en **backend con Java y Spring Boo
 | [**KardexOne – Backend**](https://github.com/juandariver9/SomicSolucionesBackEnd) | API REST de facturación con control de inventario (kardex), clientes con cupo y plazo, y cartera generada automáticamente. | Java 17 · Spring Boot 3 · JPA · MySQL |
 | [**KardexOne – Frontend**](https://github.com/juandariver9/SomicSolucionesFrontEnd) | Panel web para crear facturas, gestionar clientes y artículos, consumiendo la API anterior. | HTML · CSS · JavaScript |
 | [**Sistema de Ensayos de Tracción**](https://github.com/juandariver9/MatTestProBackEnd_JaimeAlejandroRomero) | API que registra ensayos de materiales y calcula esfuerzo, deformación, módulo de elasticidad y factor de seguridad. | Java 17 · Spring Boot · JPA |
-| [**SpaceX Explorer**](https://github.com/juandariver9/PROYECTO-FILTRO_JS_RiveroJuan-MozoJorge) | Sitio que consume la API pública de SpaceX para explorar cohetes, cápsulas, historia y compañía. | HTML · CSS · JavaScript |
+| [**SpaceX Explorer**](https://github.com/juandariver9/PROYECTO-FILTRO_JS_RiveroJuan-MozoJorge) | Sitio que consume la API pública de SpaceX para explorar cohetes, cápsulas, historia y compañía. [Ver demo](https://juandariver9.github.io/PROYECTO-FILTRO_JS_RiveroJuan-MozoJorge/) | HTML · CSS · JavaScript |
 | [**Gestión académica CampusLands**](https://github.com/juandariver9/Proyecto_Python_BastillaMaria-RomeroDavid) | App de consola para coordinadores y trainers: campers, rutas, salones, horarios, notas y reportes. | Python · JSON |
 | [**Proyecto Salesforce**](https://github.com/juandariver9/Proyecto_Salesforce_RiveroJuan) | Implementación de Salesforce para Construfurgo S.A.S., documentada en Notion. | Salesforce |
 
